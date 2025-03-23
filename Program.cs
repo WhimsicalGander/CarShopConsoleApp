@@ -3,6 +3,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace CarShopConsoleApp
 {
+    //class to hold the text based program
     internal class Program
     {
         static void Main(string[] args)
